@@ -47,7 +47,7 @@ This repository contains a Windows Forms application written in C# for managing 
 
 ## Screenshots
 
-<img title="" src="photo/1.png" alt="1" data-align="center" style="zoom:67%;"><img title="" src="file:///D:/111/photo/2.png" alt="2" style="zoom:67%;" data-align="center">
+<img title="" src="photo/1.png" alt="1" data-align="center" style="zoom:67%;"><img title="" src="photo/2.png" alt="2" style="zoom:67%;" data-align="center">
 
 ## Code Structure
 
